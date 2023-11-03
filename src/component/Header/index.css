@@ -1,0 +1,27 @@
+.header-Container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 25px;
+  background-color: #272727;
+  color: white;
+}
+.header-Container img {
+  height: 40px;
+}
+.header-List {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+}
+.header-Container button {
+  padding: 10px;
+  background-color: blue;
+  width: 110px;
+  color: white;
+  border-radius: 10px;
+}
+.home-link {
+  color: white;
+  text-decoration: none;
+}
